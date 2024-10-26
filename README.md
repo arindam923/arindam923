@@ -42,15 +42,14 @@ I am a passionate and skilled full-stack developer with expertise in a variety o
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=arindam923&show_icons=true&count_private=true&hide=prs&theme=radical)](https://github.com/arindam923)
 
 ## 🌐 Let's Connect!
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername/)
-- Twitter: [@YourTwitterHandle](https://twitter.com/yourusername)
+- Twitter: [@YourTwitterHandle](https://twitter.com/roy51952)
 
 ## 🚀 Projects
 Here are some of my notable projects:
 
-- [Project 1](https://www.thetrupay.com): Short description.
-- [Project 2](https://www.paisadekho.com): Short description.
-- [Project 3](https://www.nearbydekho.com): Short description.
+- [trupay](https://www.thetrupay.com): Fintech website / APP for B2B custommer
+- [paisadekho](https://www.paisadekho.com): Fintech Website for b2c and b2b custommer 
+- [nearbydekho](https://www.nearbydekho.com): An website and app for finding nearyby restaurant,pubs etc.
 
 Feel free to explore my repositories for more exciting projects!
 
