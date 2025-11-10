@@ -1,59 +1,59 @@
-# 👋 Hello, I'm Arindam Roy - Full Stack Developer
+# 👋 Hey there! I'm **Arindam Roy**
 
-## 🚀 About Me
-I am a passionate and skilled full-stack developer with expertise in a variety of programming languages and modern frameworks. My journey in the world of software development has equipped me with the knowledge and experience to tackle diverse challenges in both frontend and backend development.
+[![Twitter Follow](https://img.shields.io/twitter/follow/mars87153?style=social)](https://x.com/mars87153)
+[![GitHub followers](https://img.shields.io/github/followers/arindam?label=Follow&style=social)](https://github.com/arindam)
+[![Email](https://img.shields.io/badge/Email-arindam92%40proton.com-blue)](mailto:arindam92@proton.com)
 
-## 💼 Skills
+---
 
-### Frontend
-- **JavaScript/TypeScript:** Proficient in writing clean and efficient code using modern JavaScript and TypeScript.
-- **Frameworks:** Experienced with popular frontend frameworks like React, Next,Remix, solid and Vue.js.
+## 🚀 About Me  
 
-### Backend
-- **Node.js:** Leveraging the power of JavaScript on the server-side with Node.js.
-- **Golang:** Building scalable and efficient backend systems using Go.
-- **Python:** Developing robust backend solutions with Python.
-- **Java:** Extensive experience in Java for enterprise-level applications.
-- **Rust:** Crafting high-performance and reliable systems with Rust.
+I'm a passionate **Full Stack Developer** and **Tech Entrepreneur** with over **4+ years of hands-on experience** in building scalable, production-grade applications.  
 
-### Other Languages
-- **Kotlin:** Android development and cross-platform applications.
-- **Swift:** Building iOS applications with Swift.
+Having **co-founded 4+ startups** — including one with a **$1M+ valuation (acquired)** — I’ve explored nearly every domain that tech touches: **AI, Crypto, Fintech, Large-scale Data Processing, Web3, and beyond.**  
 
-### Databases
-- **SQL and NoSQL:** Proficient in working with databases such as MySQL, PostgreSQL, MongoDB, and Redis.
+If it involves **technology**, I’ve probably built something around it. 💡  
 
-## 🛠️ Tools and Technologies
-- **Git:** Version control and collaboration with Git.
-- **Docker:** Containerization for seamless deployment.
-- **CI/CD:** Implementing continuous integration and continuous deployment pipelines.
+---
 
-## 🖥️ System Design
-- **System Architecture:** Designing scalable and efficient systems.
-- **Microservices:** Building and orchestrating microservices architectures.
-- **Load Balancing:** Optimizing system performance with load balancing strategies.
+## 🛠️ Tech Stack & Expertise  
 
-## ☁️ DevOps
-- **Infrastructure as Code (IaC):** Automating infrastructure setup using tools like Terraform.
-- **Container Orchestration:** Managing and orchestrating containers with Kubernetes.
-- **Continuous Integration/Continuous Deployment (CI/CD):** Implementing CI/CD pipelines for automated testing and deployment.
+**Frontend:**  
+⚡ React • Next.js • TailwindCSS • TypeScript  
 
-## 📈 GitHub Stats
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=arindam923&show_icons=true&count_private=true&hide=prs&theme=radical)](https://github.com/arindam923)
+**Backend:**  
+⚙️ Node.js • Golang • Python • Rust  
 
-## 🌐 Let's Connect!
-- Twitter: [@YourTwitterHandle](https://twitter.com/roy51952)
+**Databases:**  
+🗄️ PostgreSQL • MongoDB • SQLite • Redis  
 
-## 🚀 Projects
-Here are some of my notable projects:
+**DevOps / Infra:**  
+🐳 Docker • AWS • Cloudflare • GitHub Actions  
 
-- [trupay](https://www.thetrupay.com): Fintech website / APP for B2B custommer
-- [paisadekho](https://www.paisadekho.com): Fintech Website for b2c and b2b custommer 
-- [nearbydekho](https://www.nearbydekho.com): An website and app for finding nearyby restaurant,pubs etc.
+**Others:**  
+🤖 AI Integrations • Web3 Development • API Design • System Architecture  
 
-Feel free to explore my repositories for more exciting projects!
+---
 
-## 📫 Contact
-- Email: arindam92@proton.com
+## 🌟 Featured Projects  
 
-Let's collaborate and build something amazing together! 💻🚀
+| Project | Description |
+|----------|--------------|
+| [**trupay**](https://www.thetrupay.com) | Fintech platform (Web & App) for **B2B payments and settlements** |
+| [**paisadekho**](https://www.paisadekho.com) | Fintech ecosystem for **B2C and B2B financial solutions** |
+| [**nearbydekho**](https://www.nearbydekho.com) | Platform to **discover restaurants, pubs, and local spots** nearby |
+| [**gululu.io**](https://www.gululu.io) | **AI-driven productivity & collaboration** platform |
+| [**promote.fun**](https://www.promote.fun) | **Creator marketing** & engagement analytics platform |
+
+---
+
+## 🌐 Connect with Me  
+
+- 🐦 Twitter: [@mars87153](https://x.com/mars87153)  
+- 📧 Email: [arindam92@proton.com](mailto:arindam92@proton.com)  
+
+---
+
+### ✨ "Always exploring. Always building."  
+Let’s collaborate and create something amazing together! 🚀  
+
