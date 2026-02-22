@@ -47,13 +47,6 @@ If it involves **technology**, I’ve probably built something around it. 💡
 
 ---
 
-## 🌐 Connect with Me  
-
-- 🐦 Twitter: [@mars87153](https://x.com/mars87153)  
-- 📧 Email: [arindam92@proton.com](mailto:arindam92@proton.com)  
-
----
-
 ### ✨ "Always exploring. Always building."  
 Let’s collaborate and create something amazing together! 🚀  
 
