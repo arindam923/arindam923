@@ -1,52 +1,93 @@
-# 👋 Hey there! I'm **Arindam Roy**
+# 👋 Hey, I'm Arindam Roy
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/mars87153?style=social)](https://x.com/mars87153)
-[![GitHub followers](https://img.shields.io/github/followers/arindam?label=Follow&style=social)](https://github.com/arindam)
-[![Email](https://img.shields.io/badge/Email-arindam92%40proton.com-blue)](mailto:arindam92@proton.com)
+**Full Stack Engineer · Systems Thinker · Startup Builder**
 
----
+I build scalable applications, distributed systems, and AI-powered products.  
+4+ years of shipping production-grade software.  
+Multiple startups built. One acquired.
 
-## 🚀 About Me  
-
-I'm a passionate **Full Stack Developer** and **Tech Entrepreneur** with over **4+ years of hands-on experience** in building scalable, production-grade applications.  
-
-Having **co-founded 4+ startups** — including one with a **$1M+ valuation (acquired)** — I’ve explored nearly every domain that tech touches: **AI, Crypto, Fintech, Large-scale Data Processing, Web3, and beyond.**  
-
-If it involves **technology**, I’ve probably built something around it. 💡  
+> I don’t just write code. I design systems.
 
 ---
 
-## 🛠️ Tech Stack & Expertise  
+## 🧠 What I Do
 
-**Frontend:**  
-⚡ React • Next.js • TailwindCSS • TypeScript  
-
-**Backend:**  
-⚙️ Node.js • Golang • Python • Rust  
-
-**Databases:**  
-🗄️ PostgreSQL • MongoDB • SQLite • Redis  
-
-**DevOps / Infra:**  
-🐳 Docker • AWS • Cloudflare • GitHub Actions  
-
-**Others:**  
-🤖 AI Integrations • Web3 Development • API Design • System Architecture  
+- Build production-ready full stack applications
+- Design backend systems & scalable APIs
+- Architect distributed & event-driven systems
+- Integrate AI into real-world products
+- Explore blockchain & Web3 infrastructure
+- Optimize performance & developer experience
 
 ---
 
-## 🌟 Featured Projects  
+## ⚙️ Tech Stack
 
-| Project | Description |
-|----------|--------------|
-| [**trupay**](https://www.thetrupay.com) | Fintech platform (Web & App) for **B2B payments and settlements** |
-| [**paisadekho**](https://www.paisadekho.com) | Fintech ecosystem for **B2C and B2B financial solutions** |
-| [**nearbydekho**](https://www.nearbydekho.com) | Platform to **discover restaurants, pubs, and local spots** nearby |
-| [**gululu.io**](https://www.gululu.io) | **AI-driven productivity & collaboration** platform |
-| [**promote.fun**](https://www.promote.fun) | **Creator marketing** & engagement analytics platform |
+### 🖥 Frontend
+- React
+- Next.js
+- TypeScript
+- TailwindCSS
+
+### 🔧 Backend
+- Node.js
+- Golang
+- Python
+- Rust
+- REST APIs
+- RPC systems
+- Background workers
+
+### 🗄 Databases
+- PostgreSQL
+- MongoDB
+- SQLite
+- Redis
+
+### 🚀 DevOps / Infra
+- Docker
+- AWS
+- Cloudflare
+- GitHub Actions
+- CI/CD pipelines
 
 ---
 
-### ✨ "Always exploring. Always building."  
-Let’s collaborate and create something amazing together! 🚀  
+## 🏗 Selected Work
 
+### Fintech Platforms
+B2B and B2C payment & settlement systems.
+
+### AI Productivity Platform
+AI-driven collaboration and workflow automation tools.
+
+### Creator Analytics
+Marketing intelligence & engagement tracking systems.
+
+### Local Discovery Platform
+Location-based discovery for restaurants & experiences.
+
+---
+
+## 🎯 Current Focus
+
+- Advanced backend engineering
+- Performance optimization
+- Blockchain & smart contract systems
+- Long-term scalable product building
+- Stable, high-value engineering collaborations
+
+---
+
+## 🤝 Let’s Collaborate
+
+If you're building something ambitious — SaaS, AI tools, fintech infra, or Web3 systems — let's talk.
+
+📩 arindam92@proton.com  
+🐦 https://x.com/mars87153  
+
+---
+
+### 🚀 Philosophy
+
+Build. Break. Improve. Repeat.
